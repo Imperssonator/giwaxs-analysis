@@ -25,6 +25,8 @@ IMPORTANT: this should end in "pics", which is necessary for the MATLAB script. 
 
 #### In wxdiff, go to `File > Run Simple Script...` and run your edited version of `Data_Reduction.py`
 
+### Analysis
+
 #### Open MATLAB and call:
 
 `[csv_file,D]=analyze_giwaxs_dir(dirPath,Imin,Imax)`
