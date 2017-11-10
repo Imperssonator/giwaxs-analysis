@@ -3,7 +3,7 @@
 * `Data_Reduction.py` converts raw .tiff data from GIWAXS run into real colored .tiffs and .csv line cuts and cake segs
 * `analyze_giwaxs_dir.m` is a MATLAB script that reads these .csvs and puts out a csv with d-spacings, grain sizes, and Herman's Orientation
 
-### Data Reduction
+### 1. Data Reduction
 #### Change the following lines of Data_Reduction.py in your text editor:
 
 
@@ -25,7 +25,7 @@ IMPORTANT: this should end in "pics", which is necessary for the MATLAB script. 
 
 #### In wxdiff, go to `File > Run Simple Script...` and run your edited version of `Data_Reduction.py`
 
-### Analysis
+### 2. Analysis
 
 #### Open MATLAB and call:
 
