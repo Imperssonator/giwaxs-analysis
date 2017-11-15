@@ -1,6 +1,6 @@
 # GIWAXS Analysis
 
-![Imgur](https://i.imgur.com/GDL2HQP.png)
+![Imgur](https://i.imgur.com/ZrbbVIY.jpg)
 
 ## This workflow proceeds through two scripts:
 * `Data_Reduction.py` converts raw .tiff data from GIWAXS run into real colored .tiffs and .csv line cuts and cake segs
