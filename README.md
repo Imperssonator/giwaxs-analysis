@@ -1,4 +1,7 @@
 # GIWAXS Analysis
+
+![Imgur](https://wwwapps.ups.com/WebTracking/track?track=yes&trackNums=1z78xw044239278389)
+
 ## This workflow proceeds through two scripts:
 * `Data_Reduction.py` converts raw .tiff data from GIWAXS run into real colored .tiffs and .csv line cuts and cake segs
 * `analyze_giwaxs_dir.m` is a MATLAB script that reads these .csvs and puts out a csv with d-spacings, grain sizes, and Herman's Orientation
