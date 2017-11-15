@@ -1,6 +1,6 @@
 # GIWAXS Analysis
 
-![Imgur](https://wwwapps.ups.com/WebTracking/track?track=yes&trackNums=1z78xw044239278389)
+![Imgur](https://i.imgur.com/GDL2HQP.png)
 
 ## This workflow proceeds through two scripts:
 * `Data_Reduction.py` converts raw .tiff data from GIWAXS run into real colored .tiffs and .csv line cuts and cake segs
